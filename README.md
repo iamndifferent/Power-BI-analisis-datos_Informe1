@@ -20,3 +20,9 @@ Proyecto de portafolio. La documentación y las visualizaciones se pueden amplia
 
 ### Vista general del dashboard
 ![Vista general del análisis de ventas de videojuegos](imagenes/dashboard.png)
+
+![Suma de Ventas por Región y Genero](imagenes/dashboard1.png)
+
+![Suma de Ventas por Región (MILLONES)](imagenes/dashboard3.png)
+
+
