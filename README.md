@@ -36,5 +36,4 @@ Se han incorporado filtros interactivos por año, editorial, género y plataform
 Se ha combinado una tarjeta de indicadores con tablas de detalle y gráficos agregados. Esta estructura permite consultar el volumen global de ventas y profundizar en registros individuales, incluyendo título, año, plataforma, género y editorial.
 
 4. Apoyo a la toma de decisiones basada en datos
-
 El dashboard proporciona una herramienta de exploración que ayuda a comparar mercados, géneros, plataformas y editoriales. Su enfoque interactivo facilita formular preguntas de negocio, detectar patrones en los datos y orientar análisis posteriores sobre el comportamiento comercial de la industria.
