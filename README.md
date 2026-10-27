@@ -20,9 +20,21 @@ Proyecto de portafolio. La documentación y las visualizaciones se pueden amplia
 
 ### Vista general del dashboard
 ![Vista general del análisis de ventas de videojuegos](imagenes/dashboard.png)
-
+### Vista de ventas por Región y Genero
 ![Suma de Ventas por Región y Genero](imagenes/dashboard1.png)
-
+### Vista de ventas por Región (Formato Diferente) 
 ![Suma de Ventas por Región (MILLONES)](imagenes/dashboard3.png)
 
+### Conlusiones
+1. Análisis de rendimiento por género
+Se han utilizado gráficos de barras apiladas para comparar las ventas de los diferentes géneros y su distribución por región. En la visualización agregada, los juegos de rol (RPG) presentan el mayor volumen total, seguidos por los juegos de disparos (Shooter).
 
+2. Segmentación interactiva de datos
+Se han incorporado filtros interactivos por año, editorial, género y plataforma, que permiten segmentar la información y analizar subconjuntos específicos de datos sin necesidad de crear informes independientes.
+
+3. Integración de métricas y detalle tabular
+Se ha combinado una tarjeta de indicadores con tablas de detalle y gráficos agregados. Esta estructura permite consultar el volumen global de ventas y profundizar en registros individuales, incluyendo título, año, plataforma, género y editorial.
+
+4. Apoyo a la toma de decisiones basada en datos
+
+El dashboard proporciona una herramienta de exploración que ayuda a comparar mercados, géneros, plataformas y editoriales. Su enfoque interactivo facilita formular preguntas de negocio, detectar patrones en los datos y orientar análisis posteriores sobre el comportamiento comercial de la industria.
