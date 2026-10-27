@@ -19,4 +19,4 @@ Estado del proyecto
 Proyecto de portafolio. La documentación y las visualizaciones se pueden ampliar a medida que se incorporen mejoras.
 
 ### Vista general del dashboard
-![Vista general del análisis de ventas de videojuegos](imagenes/dashboard.png.png)
+![Vista general del análisis de ventas de videojuegos](imagenes/dashboard.png)
